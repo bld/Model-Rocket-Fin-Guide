@@ -26,14 +26,14 @@ Materials required
 * Paper towel to catch dripping epoxy
 
 1. Take measurements and modify parameters in .SCAD file.
-* Inner diameter of body tube, and engine mount if applicable
-* Thickness of fin material
-* Thickness of plywood strips to clamp fins
-* Rod diameter - leave some clearance
-* Inner body tube diameter - leave ~0.5mm clearance
-* Engine mount inner diameter - leave ~0.5mm clearance
-* For very large body tubes, check to see if your printer is big enough - my Mosaic was big enough to do a 100mm diameter plate - plenty big for my 38mm diameter rocket.
-* Check other parameters to make sure they work for your situation.
+   * Inner diameter of body tube, and engine mount if applicable
+   * Thickness of fin material
+   * Thickness of plywood strips to clamp fins
+   * Rod diameter - leave some clearance
+   * Inner body tube diameter - leave ~0.5mm clearance
+   * Engine mount inner diameter - leave ~0.5mm clearance
+   * For very large body tubes, check to see if your printer is big enough - my Mosaic was big enough to do a 100mm diameter plate - plenty big for my 38mm diameter rocket.
+   * Check other parameters to make sure they work for your situation.
 2. Print 2 plates. I provided an STL for my situation.
 3. Print 2 adapters - one to fit each end of the body tube, which may have an engine mount in one end. I provided adapter STL files for a 38mm body tube and 29mm motor mount.
 4. Check fit of adapters into body tube and engine mount - I had to reprint one, and reduce the others with a file.
